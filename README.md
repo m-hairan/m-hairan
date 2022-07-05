@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=m-hairan&show_icons=true&layout=compact&theme=radical" width="52%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-hairan&layout=compact&theme=radical" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-hairan&layout=compact&theme=radical" width="43%"/>
 </p>
 
 ## - About Me 👨‍🦱 
