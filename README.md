@@ -1,4 +1,4 @@
-<img src="./Selangor.png" width="50%" align="right">
+<img src="./Selangor.png" width="50%" height="200px" align="right">
 <h1>Hi there 👋</h1>
 
 - 🔭 I'm a senior Javascript/Python/PHP Engineer
