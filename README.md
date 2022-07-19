@@ -1,4 +1,3 @@
-<img src="./Selangor.png" width="50%" height="150px" align="right">
 <h1>Hi there 👋</h1>
 
 - 🔭 I'm a senior Javascript/Python/PHP Engineer
@@ -17,7 +16,7 @@
 
 ## - About Me 👨‍🦱 
   
-I'm Hairan, a Javascript Fullstack Engineer living in Selangor, Malaysia.
+I'm Hairan, a Javascript Fullstack Engineer living in Toronto, Canada currently.
 In the last 5 years, I am committed to the development of web-based solutions, customization of existing applications, architecture design, code reviewing, bug fixing, performance scaling & optimizations, technical support, and consulting.
 Nowadays, I don't consider myself to be just a developer, I consider myself to be more of a problem solver, engineer and consultant. Someone whose job is to pave the way to help the client achieve what they want and obtain what they need!
 I am more than willing to go the extra mile to make sure I can help the client to the best of my ability and make sure that they are satisfied.
